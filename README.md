@@ -1,1 +1,1 @@
-Solutions to exercises in Thompson's "Haskell: The Craft of Functional Programming". According to the timestap, I think I read this book one day in 2005 when I was TAing and no one showed up for office hours.
+Solutions to exercises in Thompson's "Haskell: The Craft of Functional Programming". According to the timestamps, I seem to have read this book one day in 2005 when I was TAing and no one showed up for office hours.
